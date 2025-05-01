@@ -48,4 +48,4 @@ This project analyses food delivery trends, restaurant characteristics, and cust
 - File used: 'zomato.csv'
 
 ## Tools Used
-Python (Pands, NumPy, Matplotlib, Seaborn), Tableau Public (for dashboarding), Git & GitHub, Jupyter Notebook
+Python (Pandas, NumPy, Matplotlib, Seaborn), Tableau Public (for dashboarding), Git & GitHub, Jupyter Notebook
